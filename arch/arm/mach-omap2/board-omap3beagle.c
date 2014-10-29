@@ -37,7 +37,8 @@
 #include <linux/if_ether.h>
 #include <linux/i2c/tsc2007.h>
 #include <linux/spi/spi.h>
-#include <config/keyboard/max7359.h>
+#include <linux/input/max7359.h>
+//#include <config/keyboard/max7359.h>
 
 #include <mach/hardware.h>
 #include <asm/mach-types.h>
